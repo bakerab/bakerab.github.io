@@ -1,0 +1,71 @@
+# This file controls the settings for your Quarto template
+
+# website settings
+website:
+  title: "Andy Baker"
+  favicon: "/img/purdue_icon.png"
+
+  navbar:
+    class: responsive-navbar
+    pinned: true
+    logo: /img/logo.png
+
+    left:
+    - text: " "
+      icon: house
+      href: index.qmd
+    - text: "CV"
+      href: cv/index.qmd
+    - text: "Research"
+      menu:
+      - text: "Books"
+        href: research/index.qmd#books
+      - text: "Refereed Journal Articles"
+        href: research/index.qmd#journal_articles
+      - text: "Chapters in Edited Volumes"
+        href: research/index.qmd#chapters
+      - text: "Other Publications"
+        href: research/index.qmd#other_publications
+    - text: "Teaching"
+      href: teaching/index.qmd
+    - text: "Data"
+      href: data/index.qmd
+    - text: "Latin American Elections"
+      href: latinamericanelections/index.qmd
+     
+
+  # Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+
+
+  page-footer: 
+    center: "<span style='color: #CEB888;'>**Andy Baker**</span><br><span style='color: white;'>Political Science<br>Beering Hall of Liberal Arts & Education<br>BRNG 2268<br>Purdue University<br>100 N. University Street<br>West Lafayette, IN 47907</span>"
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    fontcolor: black
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

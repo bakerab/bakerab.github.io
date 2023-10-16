@@ -1,0 +1,12 @@
+---
+title: Curriculum Vitae
+---
+
+
+```{=html}
+<iframe width="780" height="1000" src=cv.pdf title="Quarto Documentation"></iframe>
+```
+
+
+
+
