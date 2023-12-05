@@ -18,6 +18,8 @@ website:
       href: cv/index.qmd
     - text: "Research"
       menu:
+      - text: "All"
+        href: research/index.qmd
       - text: "Books"
         href: research/index.qmd#books
       - text: "Refereed Journal Articles"
