@@ -17,17 +17,7 @@ website:
     - text: "CV"
       href: cv/index.qmd
     - text: "Research"
-      menu:
-      - text: "All"
-        href: research/index.qmd
-      - text: "Books"
-        href: research/index.qmd#books
-      - text: "Refereed Journal Articles"
-        href: research/index.qmd#journal_articles
-      - text: "Chapters in Edited Volumes"
-        href: research/index.qmd#chapters
-      - text: "Other Publications"
-        href: research/index.qmd#other_publications
+      href: research/index.qmd
     - text: "Teaching"
       href: teaching/index.qmd
     - text: "Data"
