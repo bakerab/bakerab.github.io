@@ -6,7 +6,7 @@ title: "Research"
 
 * Andy Baker. 2022. [*Shaping the Developing World: The South, the West, and the Natural World: Second Edition.*](https://us.sagepub.com/en-us/nam/shaping-the-developing-world/book249551) Washington, D.C.: Congressional Quarterly Press. \[First Edition, 2014\]
 
-* Andy Baker, Barry Ames, and Lúcio Rennó. 2020. [*Persuasive Peers: Social Communication and Voting in Latin America.*](https://press.princeton.edu/books/paperback/9780691205779/persuasive-peers) [Online appendices and replication materials.](https://doi.org/10.7910/DVN/I8VV7Z)
+* Andy Baker, Barry Ames, and Lúcio Rennó. 2020. [*Persuasive Peers: Social Communication and Voting in Latin America.*](https://press.princeton.edu/books/paperback/9780691205779/persuasive-peers). (Princeton Studies in Global and Comparative Sociology). Princeton, N.J.: Princeton University Press. [Online appendices and replication materials.](https://doi.org/10.7910/DVN/I8VV7Z)
 
   * Winner of the 2021 APSA Political Networks Section Best Book Award, awarded biannually to the best book on political networks published in the past two years.
   
