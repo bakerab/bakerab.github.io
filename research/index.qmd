@@ -86,6 +86,7 @@ title: "Research"
 
 ----
 
+
 <h2 id="chapters">Chapters in Edited Volumes</h2>
 
 * Andy Baker and Dalton Dorr. 2019. “Mass Partisanship in Three Latin American Democracies.” In [*Campaigns and Voters in Developing Democracies: Argentina in Comparative Perspective,*](https://doi.org/10.3998/mpub.10087303), eds. Noam Lupu, Virginia Oliveros, and Luis Schiumerini, 89-113. Ann Arbor, MI: Univeristy of Michigan Press. [Ungated Version.](./Baker and Dorr Website.pdf) 
