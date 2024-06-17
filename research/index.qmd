@@ -6,40 +6,30 @@ title: "Research"
 
 * Andy Baker. 2022. [*Shaping the Developing World: The South, the West, and the Natural World: Second Edition.*](https://us.sagepub.com/en-us/nam/shaping-the-developing-world/book249551) Washington, D.C.: Congressional Quarterly Press. \[First Edition, 2014\] [[Request a review copy.]](https://us.sagepub.com/en-us/nam/shaping-the-developing-world/book249551) [[First Edition, 2014]](https://us.sagepub.com/en-us/nam/shaping-the-developing-world/book237495)
 
-* Andy Baker, Barry Ames, and Lucio Renno (2020). [*Persuasive Peers: Social Communication and Voting in Latin America.*](https://press.princeton.edu/books/paperback/9780691205779/persuasive-peers) [Online appendices and replication materials.](https://doi.org/10.7910/DVN/I8VV7Z)
+* Andy Baker, Barry Ames, and Lúcio Rennó. 2020. [*Persuasive Peers: Social Communication and Voting in Latin America.*](https://press.princeton.edu/books/paperback/9780691205779/persuasive-peers) [Online appendices and replication materials.](https://doi.org/10.7910/DVN/I8VV7Z)
 
-  * Winner of the 2021 APSA Political Networks Section Best Book Award, awarded every other year for the best book published in the past two years.
+  * Winner of the 2021 APSA Political Networks Section Best Book Award, awarded biannually to the best book on political networks published in the past two years.
   
-  * Portuguese translation: *Pares Persuasivos: Comunicação social e votação na América Latina* (2023). Brasília: Editora Universidade de Brasília.
+  * Portuguese translation: *Pares Persuasivos: Comunicação social e votação na América Latina* (2024). Brasília: Editora Universidade de Brasília.
   
-  * Reviewed in the following:
-  
-    * *Perspectives on Politics*
-    * *Latin American Research Review*
-    * *Bulletin of Latin American Research*
+  * Reviewed in *Bulletin of Latin American Research, Latin American Research Review, Perspectives on Politics, Revista Latinoamerica de Opinión Pública, and Survival: Global Politics and Strategy*
 
-* Andy Baker (2009). [*The Market and the Masses in Latin America: Policy Reform and Consumption in Liberalizing Economies.*](https://doi.org/10.1017/CBO9780511576447) (Cambridge Studies in Comparative Politics). New York: Cambridge University Press.
+* Andy Baker. 2009. [*The Market and the Masses in Latin America: Policy Reform and Consumption in Liberalizing Economies.*](https://www.cambridge.org/core/books/market-and-the-masses-in-latin-america/4F0AD16064A70AA6A305FD5B29921BED) (Cambridge Studies in Comparative Politics). New York: Cambridge University Press.
   * Blog post: [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2014/06/02/latin-americans-are-embracing-globalization-and-their-former-colonial-masters/?utm_term=.03412b47947a)
-  * Reviewed in the following:
-    * *Perspectives on Politics*
-    * *Comparative Political Studies*
-    * *International Journal of Public Opinion Research*
-    * *Latin American Research Review*
-    * *Latin American Politics and Society*
-    * *Bulletin of Latin American Research*
-    * *Choice Reviews Online*
+  * Reviewed in *Bulletin of Latin American Research, Choice Reviews Online, Comparative Political Studies, International Journal of Public Opinion Research, Latin American Research Review, Latin American Politics and Society, and Perspectives on Politics*
     
 ----
 
 <h2 id="journal_articles">Refereed Journal Articles</h2>
 
-* Andy Baker and David Cupery (2023). [“Animosity, Amnesia, or Admiration? Mass Opinion around the World toward the Former Colonizer.”](https://doi.org/10.1017/S0007123422000710) *British Journal of Political Science.* [Published version.](https://doi.org/10.1017/S0007123422000710) [Online Appendix.](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0007123422000710/resource/name/S0007123422000710sup001.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F8XTVP)
+* Andy Baker and David Cupery. 2023. “Animosity, Amnesia, or Admiration? Mass Opinion around the World toward the Former Colonizer.” *British Journal of Political Science* 53(4): 1132-1149.[https://doi.org/10.1017/S0007123422000710](https://doi.org/10.1017/S0007123422000710). [Online Appendix.](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0007123422000710/resource/name/S0007123422000710sup001.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F8XTVP)
+  * Mentioned in the following mass media outlets: [CounterPunch,](https://www.counterpunch.org/2023/03/03/roaming-charges-83/) [Daily Skeptic,](https://dailysceptic.org/2023/12/31/colonies-have-a-favourable-opinion-of-their-colonizer-study-finds/?highlight=animosity%20amnesia), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2023/02/monday-assorted-links-395.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-395)
 
-* Andy Baker (2023). [“The Microfoundations of Latin America’s Social Policy Coalitions: The Insider/Outsider Labor Divide and Attitudes toward Different Welfare Programs in Mexico.”](https://muse.jhu.edu/pub/1/article/875316) *World Politics* 75(1): 99-144. [Online Appendix.](https://muse.jhu.edu/article/875316/file/supp01.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YXBXBB)
+* Andy Baker. 2023. “The Microfoundations of Latin America’s Social Policy Coalitions: The Insider/Outsider Labor Divide and Attitudes toward Different Welfare Programs in Mexico.” *World Politics* 75(1): 99-144. [https://doi.org/10.1353/wp.2023.0001.](https://doi.org/10.1353/wp.2023.0001) . [Online Appendix.](https://muse.jhu.edu/article/875316/file/supp01.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YXBXBB)
 
-* Andy Baker and Dalton Dorr (2022). [“Labor Informality and the Vote in Latin America: A Meta-Analysis.”](https://doi.org/10.1017/lap.2022.4) *Latin American Politics and Society* 64(2): 21-44. [Published version.](https://doi.org/10.1017/lap.2022.4) [Online Appendix.](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X22000048/resource/name/S1531426X22000048sup001.pdf) [Replication materials.](https://doi.org/10.7910/DVN/Z5YJ19)
+* Andy Baker and Dalton Dorr. 2022. “Labor Informality and the Vote in Latin America: A Meta-Analysis.” *Latin American Politics and Society* 64(2): 21-44. [https://doi.org/10.1017/lap.2022.4](https://doi.org/10.1017/lap.2022.4) [Online Appendix.](https://www.colorado.edu/faculty/baker/node/120/attachment) [Replication materials.](https://doi.org/10.7910/DVN/Z5YJ19)
 
-* Andy Baker and Lucio Renno (2019). [“Nonpartisans as False Negatives: The Mismeasurement of Party Identification in Public Opinion Surveys.”](https://www.journals.uchicago.edu/doi/full/10.1086/703129) *Journal of Politics* 81(3): 906-922. [Online Appendix.](https://www.journals.uchicago.edu/doi/suppl/10.1086/703129/suppl_file/170738Appendix.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HK213D)
+* Andy Baker and Lucio Renno. 2019. “Nonpartisans as False Negatives: The Mismeasurement of Party Identification in Public Opinion Surveys.” *Journal of Politics* 81(3): 906-922. [https://doi.org/10.1086/703129](https://doi.org/10.1086/703129) [Online Appendix.](https://www.colorado.edu/faculty/baker/node/104/attachment) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HK213D)
 
 * Andy Baker and Stefan J. Wojcik (2019). [“Does Democratization Lower Consumer Prices? Regime Type, Prices, and the Consumer–Producer Tradeoff.”](https://journals.sagepub.com/doi/full/10.1177/0192512117731264#:~:text=We%20argue%20and%20find%20that,to%20those%20on%20capital%20goods.) *International Political Science Review* 40(2): 145-160. [Published version (gated).](http://journals.sagepub.com/doi/full/10.1177/0192512117731264)
 
