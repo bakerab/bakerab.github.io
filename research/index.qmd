@@ -35,7 +35,7 @@ title: "Research"
 
 * Andy Baker and Vania Ximena Velasco-Guachalla. 2018. “Is the Informal Sector Politically Different? (Null) Answers from Latin America.” *World Development* 102: 170-182. [https://doi.org/10.1016/j.worlddev.2017.09.014.](https://doi.org/10.1016/j.worlddev.2017.09.014)
 
-* Andy Baker, Barry Ames, Anand E. Sokhey, and Lucio R. Renno. 2016. "The Dynamics of Partisan Identification when Party Brands Change: The Case of the Workers Party in Brazil." *Journal of Politics* 78(1): 197-213. [https://doi.org/10.1086/683609.](https://doi.org/10.1086/683609) [Online appendix.](https://www.colorado.edu/faculty/baker/node/30/attachment) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XSCFX5)
+* Andy Baker, Barry Ames, Anand E. Sokhey, and Lucio R. Renno. 2016. "The Dynamics of Partisan Identification when Party Brands Change: The Case of the Workers Party in Brazil." *Journal of Politics* 78(1): 197-213. [https://doi.org/10.1086/683609.](https://doi.org/10.1086/683609) [Online appendix.](https://www.journals.uchicago.edu/doi/suppl/10.1086/683609) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XSCFX5)
 
 * Andy Baker, James R. Scarritt, and Shaheen Mozaffar. 2016. "Ethnopolitical Demography and Democracy in Sub-Saharan Africa." *Democratization* 23(5): 838-861.[https://doi.org/10.1080/13510347.2015.1038250.](https://doi.org/10.1080/13510347.2015.1038250) [Online appendix.](https://www.tandfonline.com/doi/suppl/10.1080/13510347.2015.1038250?scroll=top)
 
