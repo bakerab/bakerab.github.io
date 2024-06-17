@@ -27,7 +27,7 @@ title: "Research"
 
 * Andy Baker. 2023. “The Microfoundations of Latin America’s Social Policy Coalitions: The Insider/Outsider Labor Divide and Attitudes toward Different Welfare Programs in Mexico.” *World Politics* 75(1): 99-144. [https://doi.org/10.1353/wp.2023.0001.](https://doi.org/10.1353/wp.2023.0001) [Online Appendix.](https://muse.jhu.edu/article/875316/file/supp01.pdf) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YXBXBB)
 
-* Andy Baker and Dalton Dorr. 2022. “Labor Informality and the Vote in Latin America: A Meta-Analysis.” *Latin American Politics and Society* 64(2): 21-44. [https://doi.org/10.1017/lap.2022.4.](https://doi.org/10.1017/lap.2022.4) [Online Appendix.](https://www.colorado.edu/faculty/baker/node/120/attachment) [Replication materials.](https://doi.org/10.7910/DVN/Z5YJ19)
+* Andy Baker and Dalton Dorr. 2022. “Labor Informality and the Vote in Latin America: A Meta-Analysis.” *Latin American Politics and Society* 64(2): 21-44. [https://doi.org/10.1017/lap.2022.4.](https://doi.org/10.1017/lap.2022.4) [Online Appendix.](./Baker and Dorr Website.pdf) [Replication materials.](https://doi.org/10.7910/DVN/Z5YJ19)
 
 * Andy Baker and Lucio Renno. 2019. “Nonpartisans as False Negatives: The Mismeasurement of Party Identification in Public Opinion Surveys.” *Journal of Politics* 81(3): 906-922. [https://doi.org/10.1086/703129.](https://doi.org/10.1086/703129) [Online Appendix.](https://www.colorado.edu/faculty/baker/node/104/attachment) [Replication materials.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HK213D)
 
